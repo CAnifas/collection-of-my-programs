@@ -1,0 +1,11 @@
+pyproject.toml
+ternos_media/__init__.py
+ternos_media/gif_viewer.py
+ternos_media/image_viewer.py
+ternos_media/renderer.py
+ternos_media.egg-info/PKG-INFO
+ternos_media.egg-info/SOURCES.txt
+ternos_media.egg-info/dependency_links.txt
+ternos_media.egg-info/entry_points.txt
+ternos_media.egg-info/requires.txt
+ternos_media.egg-info/top_level.txt

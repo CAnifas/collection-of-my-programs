@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ternos-media
+Version: 1.0.0
+Summary: A terminal image and animated GIF viewer for Ternos
+Author: Antigravity AI
+Requires-Python: >=3.7
+Requires-Dist: pillow>=9.0.0

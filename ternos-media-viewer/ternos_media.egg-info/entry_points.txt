@@ -1,0 +1,3 @@
+[console_scripts]
+TernosSyS = ternos_media.gif_viewer:main
+imgTernos = ternos_media.image_viewer:main

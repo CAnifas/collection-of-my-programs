@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ternos-media"
+version = "1.0.0"
+description = "A terminal image and animated GIF viewer for Ternos"
+authors = [
+    { name = "Antigravity AI" }
+]
+dependencies = [
+    "pillow>=9.0.0",
+]
+requires-python = ">=3.7"
+
+[project.scripts]
+imgTernos = "ternos_media.image_viewer:main"
+TernosSyS = "ternos_media.gif_viewer:main"
