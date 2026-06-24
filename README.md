@@ -1,3 +1,5 @@
+<img width="1472" height="700" alt="зображення" src="https://github.com/user-attachments/assets/cf1597ea-2a9c-4c78-9312-1b01ba7cc645" />
+
 # 🚀 My Programs Collection / Коллекция Моих Программ
 
 ## 🇬🇧 English
